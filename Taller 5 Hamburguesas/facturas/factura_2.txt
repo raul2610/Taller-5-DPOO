@@ -1,0 +1,7 @@
+Cliente: Manuela Rojas
+Dirección: Carrera 11 con calle 95
+----------------
+----------------
+Precio Neto:  0
+IVA:          0
+Precio Total: 0

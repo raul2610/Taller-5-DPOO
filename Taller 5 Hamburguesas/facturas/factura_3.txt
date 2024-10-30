@@ -1,0 +1,7 @@
+Cliente: George Bush
+Dirección: Carrera 9 con calle 11
+----------------
+----------------
+Precio Neto:  0
+IVA:          0
+Precio Total: 0

@@ -1,0 +1,13 @@
+Cliente: Raúl Ruiz
+Dirección: Carrera 7 con calle 92
+----------------
+Corral
+            13000
+Callejera
+            16000
+Hawaiana
+            14900
+----------------
+Precio Neto:  43900
+IVA:          8341
+Precio Total: 52241

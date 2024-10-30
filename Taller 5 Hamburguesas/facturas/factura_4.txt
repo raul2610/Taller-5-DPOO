@@ -1,0 +1,7 @@
+Cliente: Raúl Ruiz
+Dirección: Carrera 7 con calle 92
+----------------
+----------------
+Precio Neto:  0
+IVA:          0
+Precio Total: 0

@@ -1,0 +1,7 @@
+Cliente: Sebastián Ruiz
+Dirección: Carrera 10 con calle 92
+----------------
+----------------
+Precio Neto:  0
+IVA:          0
+Precio Total: 0
